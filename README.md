@@ -5,7 +5,7 @@ https://4geeks.com/interactive-coding-tutorial/excuse-generator
 
 
 
-## Versiones
+## Versiones (ver [releases](https://github.com/danolox/generador-excusas-javascript/releases))
 
 
 ### v1.0 - Generación de excusas al REFRESCAR página (window.onload)
