@@ -19,7 +19,7 @@ function randomizador (lista) {
 }
 
 
-function generadorExcusa () {
+function clickGenerador () {
   
   document.querySelector('#excusa').innerHTML =
     randomizador(alguien) + " " +
@@ -31,4 +31,4 @@ function generadorExcusa () {
 }
 
 
-window.onload = generadorExcusa;
+document.getElementById("botonGenerador").onclick = clickGenerador;
